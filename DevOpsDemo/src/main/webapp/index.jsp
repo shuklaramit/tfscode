@@ -9,7 +9,7 @@
 <body>
 	<h2>Hello Folks</h2>
 	<h3>DevOps Coming Soon........</h3>
-	<h3>Welcome to CI-CD of Java App in TFS 2015 </h3>
+	<h3>Welcome to CI-CD of Java Application in TFS 2015 </h3>
 	<h3>This is a demo for Java Project deployment to Apache Tomcat Server with TFS</h3>
 </body>
 </html>
