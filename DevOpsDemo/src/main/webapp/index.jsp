@@ -7,6 +7,8 @@
 <title>TFS Java</title>
 </head>
 <body>
-	<h2>This is a demo for Java Build Management with TFS</h2>
+	<h2>Hello Folks</h2>
+	<h3>Welcome to CI-CD of Java App in TFS 2015 </h3>
+	<h3>This is a demo for Java Build and Release Management with TFS</h3>
 </body>
 </html>
